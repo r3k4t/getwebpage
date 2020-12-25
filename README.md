@@ -1,3 +1,7 @@
+[![php](https://img.shields.io/badge/PHP-7-blue.svg)](https://www.php.net/releases/index.php)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux-blue.svg)](https://en.wikipedia.org/wiki/Linux)
+
+
 # GetWebPage
 
 <h6>Author : RKT</h6>
