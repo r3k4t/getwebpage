@@ -10,7 +10,7 @@
 ![Screenshot_2020-12-25_09-21-49](https://user-images.githubusercontent.com/69615463/103118240-05b84a80-4694-11eb-8425-0c884d9741d1.png)
 
 
-GetWebPage is a website html gathering tool.Its build on php program.It can help to gather any website html code.
+GetWebPage is a Website Html Gathering Tool.Its build on php program.It can help to gather any website html code.
 
 
 ### Setup ###
